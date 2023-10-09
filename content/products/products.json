@@ -1,0 +1,72 @@
+[
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+        "id": 1,
+        "image": "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Headphones BEATS",
+        "onSale": false,
+        "price": 20000,
+        "ratings": 4,
+        "salePrice": null,
+        "tags": [
+            "Headphone",
+            "People"
+        ]
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+        "id": 2,
+        "image": "https://images.pexels.com/photos/6062560/pexels-photo-6062560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Channel Perfume",
+        "onSale": true,
+        "price": 3500,
+        "ratings": 4.5,
+        "salePrice": 3000,
+        "tags": [
+            "Perfume",
+            "Women"
+        ]
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+        "id": 3,
+        "image": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Nike Shoes",
+        "onSale": true,
+        "price": 10500,
+        "ratings": 4.5,
+        "salePrice": 9000,
+        "tags": [
+            "Nike",
+            "Men"
+        ]
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+        "id": 4,
+        "image": "https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Living room",
+        "onSale": false,
+        "price": 100500,
+        "ratings": 4,
+        "salePrice": null,
+        "tags": [
+            "Home",
+            "Pretty"
+        ]
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+        "id": 5,
+        "image": "https://images.pexels.com/photos/3210711/pexels-photo-3210711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Retro Man Watch",
+        "onSale": true,
+        "price": 50500,
+        "ratings": 3.5,
+        "salePrice": 40000,
+        "tags": [
+            "Watch",
+            "Men"
+        ]
+    }
+]

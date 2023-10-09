@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "name": "Shoes"
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/45981/pexels-photo-45981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "name": "Handbags"
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "name": "Perfumes"
+  },
+  {
+    "id": 4,
+    "image": "https://images.pexels.com/photos/1377034/pexels-photo-1377034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "name": "Cosmetics"
+  },
+  {
+    "id": 5,
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Food"
+  }
+]
