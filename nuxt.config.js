@@ -45,10 +45,12 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    "nuxtjs/pwa",
-    "nuxtjs/content",
+    // https://go.nuxtjs.dev/pwa
+    "@nuxtjs/pwa",
+    // https://go.nuxtjs.dev/content
+    "@nuxt/content",
     "vue-sweetalert2/nuxt/no-css",
-    "nuxtjs/webfontloader",
+    "nuxt-webfontloader",
   ],
   webfontloader: {
     google: {
@@ -56,7 +58,7 @@ export default {
     },
   },
 
-  // PWA module
+  // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
       lang: "en",
