@@ -8,7 +8,7 @@
     :style="{padding : $vuetify.breakpoint.mdAndUp ? '0px 100px' : ''}"
   >
   <v-toolbar-title @click="$router.push('/')" class="text-md-5 font-weight-bold pointer">
-    eCommerce site
+    eCommerce
   </v-toolbar-title>
   <v-spacer/>
   <v-btn icon>
