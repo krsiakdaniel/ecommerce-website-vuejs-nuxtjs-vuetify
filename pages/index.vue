@@ -6,6 +6,8 @@
     <v-container>
       <h1 class="text-md-h4 text-h6 mb-4">Check out these items</h1>
       <ProductSlider :products="products" />
+      <v-row class="mb-8" />
+      <Newsletter />
     </v-container>
     <Footer />
   </div>
