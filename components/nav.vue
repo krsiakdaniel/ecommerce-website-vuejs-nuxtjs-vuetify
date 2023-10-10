@@ -11,7 +11,7 @@
     eCommerce
   </v-toolbar-title>
   <v-spacer/>
-  <v-btn icon>
+  <v-btn nuxt to="/products" icon>
     <v-icon size="20">mdi-store-outline</v-icon>
   </v-btn>
   <v-btn icon>
