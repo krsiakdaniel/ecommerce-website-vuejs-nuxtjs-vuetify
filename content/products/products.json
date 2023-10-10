@@ -5,9 +5,9 @@
         "image": "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "name": "Headphones BEATS",
         "onSale": true,
-        "price": 4000,
+        "price": 2000,
         "ratings": 4,
-        "salePrice": 2000,
+        "salePrice": 1000,
         "tags": [
             "Headphone",
             "People"
@@ -33,9 +33,9 @@
         "image": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "name": "Nike Shoes",
         "onSale": true,
-        "price": 4000,
+        "price": 1000,
         "ratings": 4.5,
-        "salePrice": 2000,
+        "salePrice": 500,
         "tags": [
             "Nike",
             "Men"
@@ -61,9 +61,9 @@
         "image": "https://images.pexels.com/photos/3210711/pexels-photo-3210711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "name": "Retro Man Watch",
         "onSale": true,
-        "price": 40000,
+        "price": 10000,
         "ratings": 3.5,
-        "salePrice": 30000,
+        "salePrice": 5000,
         "tags": [
             "Watch",
             "Men"
