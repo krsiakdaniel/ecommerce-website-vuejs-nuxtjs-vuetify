@@ -1,7 +1,16 @@
 # eCommerce website: Vue + Nuxt + Vuetify
 
-- coding exercise :)
-- eCommerce website built using: [Vue.js](https://vuejs.org/) + [NuxtJS](https://nuxt.com/) + [Vuetify](https://vuetifyjs.com/en/)
+eCommerce website built using: [Vue.js](https://vuejs.org/) + [NuxtJS](https://nuxt.com/) + [Vuetify](https://vuetifyjs.com/en/)
+
+## TODO
+
+- [x] basic layout
+- [x] data
+- [x] product page
+- [x] product details
+- [ ] create a shopping cart
+- [ ] manage state in store
+- [ ] deploy site online
 
 ---
 
