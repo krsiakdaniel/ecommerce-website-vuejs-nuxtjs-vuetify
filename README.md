@@ -2,6 +2,8 @@
 
 eCommerce website built using: [Vue.js](https://vuejs.org/) + [NuxtJS](https://nuxt.com/) + [Vuetify](https://vuetifyjs.com/en/)
 
+![vue](vue.png) ![nuxt](nuxt.png) ![vuetify](vuetify.png)
+
 ## TODO
 
 - [x] basic layout
