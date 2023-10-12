@@ -90,7 +90,7 @@ export default {
           success: colors.green.accent3
         },
         dark: {
-          primary: colors.deepPurple.darken1,
+          primary: colors.green.darken1,
           bg:'#0a0514',
           surface:'#130a24',
           accent: colors.grey.darken3,
