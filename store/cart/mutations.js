@@ -7,6 +7,9 @@ export default {
     }
   },
 
+  // FIXME: add to cart mi nefuguje
+  // FIXME: to stejne local storage se neulozi
+  // TODO: je chyba v nahravani plugins? nebo mam nekde preklep?
   AddToCart(state, product) {
     // Find if the product already exists in cart
     let itemFound = state.cart.find((item) => item.product.id === product.id);

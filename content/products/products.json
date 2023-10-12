@@ -2,8 +2,8 @@
     {
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
         "id": 1,
-        "image": "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "name": "Headphones BEATS",
+        "image": "https://images.pexels.com/photos/14935011/pexels-photo-14935011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Headphones JBL",
         "onSale": true,
         "price": 2000,
         "ratings": 4,
@@ -16,8 +16,8 @@
     {
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
         "id": 2,
-        "image": "https://images.pexels.com/photos/6062560/pexels-photo-6062560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "name": "Channel Perfume",
+        "image": "https://images.pexels.com/photos/1557980/pexels-photo-1557980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Perfume Chanel",
         "onSale": false,
         "price": 6000,
         "ratings": 4.5,
@@ -30,21 +30,21 @@
     {
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
         "id": 3,
-        "image": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "name": "Nike Shoes",
+        "image": "https://images.pexels.com/photos/1240892/pexels-photo-1240892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Converse Shoes",
         "onSale": true,
         "price": 1000,
         "ratings": 4.5,
         "salePrice": 500,
         "tags": [
-            "Nike",
+            "Sneackers",
             "Men"
         ]
     },
     {
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
         "id": 4,
-        "image": "https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "image": "https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "name": "Living room",
         "onSale": false,
         "price": 50000,
@@ -52,14 +52,14 @@
         "salePrice": 40000,
         "tags": [
             "Home",
-            "Pretty"
+            "Kitchen"
         ]
     },
     {
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
         "id": 5,
-        "image": "https://images.pexels.com/photos/3210711/pexels-photo-3210711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "name": "Retro Man Watch",
+        "image": "https://images.pexels.com/photos/2113994/pexels-photo-2113994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "name": "Man Watch",
         "onSale": true,
         "price": 10000,
         "ratings": 3.5,

@@ -1,5 +1,5 @@
 <template>
-  <v-carousel height="100vh" hide-delimiter-background>
+  <v-carousel height="80vh" hide-delimiter-background>
     <template #prev="{ attrs, on }">
       <v-btn v-bind="attrs" v-on="on" color="transparent" fab depressed>
         <v-icon size="20">mdi-arrow-left</v-icon>

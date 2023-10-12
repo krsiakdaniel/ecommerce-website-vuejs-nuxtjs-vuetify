@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image": "https://images.pexels.com/photos/1240892/pexels-photo-1240892.jpeg?auto=compress&cs=tinysrgb&w=650&h=940&dpr=1",
     "name": "Shoes"
   },
   {
     "id": 2,
-    "image": "https://images.pexels.com/photos/45981/pexels-photo-45981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Handbags"
+    "image": "https://images.pexels.com/photos/205926/pexels-photo-205926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "name": "Headphones"
   },
   {
     "id": 3,
@@ -16,12 +16,12 @@
   },
   {
     "id": 4,
-    "image": "https://images.pexels.com/photos/1377034/pexels-photo-1377034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Cosmetics"
+    "image": "https://images.pexels.com/photos/2079246/pexels-photo-2079246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "name": "Home"
   },
   {
     "id": 5,
-    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "name": "Food"
+    "image": "https://images.pexels.com/photos/1120275/pexels-photo-1120275.jpeg?auto=compress&cs=tinysrgb&w=650&h=940&dpr=1",
+    "name": "Watch"
   }
 ]
