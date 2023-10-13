@@ -1,6 +1,6 @@
 export default {
   LoadCart(state) {
-    let cart = localStorage.getItem("freeCart");
+    let cart = localStorage.getItem("cartContent");
 
     if (cart) {
       state.cart = JSON.parse(cart);
@@ -23,7 +23,7 @@ export default {
     }
 
     // Update local storage
-    localStorage.setItem("freeCart", JSON.stringify(state.cart));
+    localStorage.setItem("cartContent", JSON.stringify(state.cart));
 
     // sweetAlert settings
     this.$swal({
@@ -59,7 +59,7 @@ export default {
     });
 
     // Update local storage
-    localStorage.setItem("freeCart", JSON.stringify(state.cart));
+    localStorage.setItem("cartContent", JSON.stringify(state.cart));
   },
 
   RemoveCartItem(state, index) {
@@ -76,7 +76,7 @@ export default {
     });
 
     // Update local storage
-    localStorage.setItem("freeCart", JSON.stringify(state.cart));
+    localStorage.setItem("cartContent", JSON.stringify(state.cart));
   },
 
   IncreaseItemCount(state, index) {
@@ -94,13 +94,13 @@ export default {
     });
 
     // Update local storage
-    localStorage.setItem("freeCart", JSON.stringify(state.cart));
+    localStorage.setItem("cartContent", JSON.stringify(state.cart));
   },
 
   ClearCart(state) {
     state.cart = [];
 
     // Update local storage
-    localStorage.removeItem("freeCart");
+    localStorage.removeItem("cartContent");
   },
 };
