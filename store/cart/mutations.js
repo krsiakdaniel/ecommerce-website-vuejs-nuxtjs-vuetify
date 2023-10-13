@@ -28,7 +28,7 @@ export default {
     // sweetAlert settings
     this.$swal({
       icon: "success",
-      text: "Cart Updated",
+      text: "Item was added to you cart",
       position: "top-end",
       toast: true,
       timer: 2000,
@@ -50,7 +50,7 @@ export default {
 
     this.$swal({
       icon: "success",
-      text: "Cart was updated",
+      text: "Item was removed",
       position: "top-end",
       toast: true,
       timer: 2000,
@@ -67,7 +67,7 @@ export default {
 
     this.$swal({
       icon: "success",
-      text: "Item was removed",
+      text: "Item removed from cart",
       position: "top-end",
       toast: true,
       timer: 2000,
@@ -85,7 +85,7 @@ export default {
 
     this.$swal({
       icon: "success",
-      text: "Cart was updated",
+      text: "Item was added",
       position: "top-end",
       toast: true,
       timer: 2000,

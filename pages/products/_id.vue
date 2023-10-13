@@ -47,6 +47,7 @@
             color="primary"
             >Add To Cart</v-btn
           >
+          <p @click="$router.push('/products')" class="blue--text pointer mt-8">← Go back to products</p>
         </v-col>
       </v-row>
     </v-container>

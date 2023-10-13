@@ -11,17 +11,21 @@
       eCommerce
     </v-toolbar-title>
     <v-spacer/>
-    <v-btn nuxt to="/products" icon>
+    <v-btn nuxt to="/products" icon class="mr-2">
       <v-icon size="20">mdi-store-outline</v-icon>
     </v-btn>
 
-    <v-badge overlap :content="$store.state.cart.cart.length" v-if="$store.state.cart.cart.length > 0">
-      <v-btn icon>
+    <v-badge
+      overlap
+      :content="$store.state.cart.cart.length"
+      v-if="$store.state.cart.cart.length > 0"
+    >
+      <v-btn nuxt to="/cart" icon>
         <v-icon size="20">mdi-cart-outline</v-icon>
       </v-btn>
     </v-badge>
 
-      <v-btn v-else icon>
+      <v-btn v-else nuxt to="/cart" icon>
         <v-icon size="20">mdi-cart-outline</v-icon>
       </v-btn>
 
