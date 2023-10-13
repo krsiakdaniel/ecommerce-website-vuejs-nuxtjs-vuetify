@@ -40,7 +40,7 @@
             {{ product.description }}
           </p>
           <v-btn
-            @click="$store.commit('cart/addToCart', product)"
+            @click="$store.commit('cart/AddToCart', product)"
             min-height="45"
             min-width="170"
             class="text-capitalize"

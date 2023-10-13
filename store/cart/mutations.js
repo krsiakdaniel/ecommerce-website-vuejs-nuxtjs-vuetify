@@ -1,33 +1,34 @@
 export default {
   LoadCart(state) {
-    let cart = localStorage.getItem("myCart");
+    let cart = localStorage.getItem("freeCart");
 
     if (cart) {
       state.cart = JSON.parse(cart);
     }
   },
 
-  // FIXME: add to cart mi nefuguje
-  // FIXME: to stejne local storage se neulozi
-  // TODO: je chyba v nahravani plugins? nebo mam nekde preklep?
   AddToCart(state, product) {
     // Find if the product already exists in cart
-    let itemFound = state.cart.find((item) => item.product.id === product.id);
+    let itemFound = state.cart.find((p) => p.product.id === product.id);
 
+    // Add new item
     if (!itemFound) {
-      state.cart.push({ product, quantity: 1 }); // Add new item
+      state.cart.push({
+        product, quantity: 1
+      });
     }
 
     if (itemFound) {
       itemFound.quantity += 1;
     }
 
-    localStorage.setItem("myCart", JSON.stringify(state.cart)); // Update local storage
+    // Update local storage
+    localStorage.setItem("freeCart", JSON.stringify(state.cart));
 
     // sweetAlert settings
     this.$swal({
       icon: "success",
-      text: "Cart Updated.",
+      text: "Cart Updated",
       position: "top-end",
       toast: true,
       timer: 2000,
@@ -44,18 +45,21 @@ export default {
     if (item.quantity == 1) {
       state.cart.splice(index, 1); // Remove item from cart
     } else {
-      item.quantity -= 1;
+      item.quantity -= 1; // If there is more than 1 item, decrease the quantity
     }
 
     this.$swal({
-      toast: true,
-      text: "Cart was updated",
       icon: "success",
+      text: "Cart was updated",
+      position: "top-end",
+      toast: true,
       timer: 2000,
       timerProgressBar: true,
       showConfirmButton: false,
-      position: "top-end",
     });
+
+    // Update local storage
+    localStorage.setItem("freeCart", JSON.stringify(state.cart));
   },
 
   RemoveCartItem(state, index) {
@@ -63,13 +67,16 @@ export default {
 
     this.$swal({
       icon: "success",
-      text: "Item was removed.",
+      text: "Item was removed",
       position: "top-end",
       toast: true,
       timer: 2000,
       timerProgressBar: true,
       showConfirmButton: false,
     });
+
+    // Update local storage
+    localStorage.setItem("freeCart", JSON.stringify(state.cart));
   },
 
   IncreaseItemCount(state, index) {
@@ -85,10 +92,15 @@ export default {
       timerProgressBar: true,
       showConfirmButton: false,
     });
+
+    // Update local storage
+    localStorage.setItem("freeCart", JSON.stringify(state.cart));
   },
 
   ClearCart(state) {
     state.cart = [];
-    localStorage.removeItem("myCart"); // Update local storage
+
+    // Update local storage
+    localStorage.removeItem("freeCart");
   },
 };
