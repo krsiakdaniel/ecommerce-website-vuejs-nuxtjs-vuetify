@@ -25,10 +25,14 @@ Demo: <https://ecommerce-vue-nuxt.onrender.com/>
 
 ## 💻 Scripts
 
-```bash
-# install dependencies
-$ npm install
+Install dependencies.
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+```bash
+npm i
+```
+
+Run on local machine at <http://localhost:3000>
+
+```bash
+npm run dev
 ```
