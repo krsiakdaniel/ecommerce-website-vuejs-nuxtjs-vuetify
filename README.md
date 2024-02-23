@@ -1,10 +1,17 @@
 # eCommerce website: Vue + Nuxt + Vuetify
 
-eCommerce website built using: [Vue.js](https://vuejs.org/) + [Nuxt](https://nuxt.com/) + [Vuetify](https://vuetifyjs.com/en/)
+Simple eCommerce website 🛒
 
-![vue](vue.png) ![nuxt](nuxt.png) ![vuetify](vuetify.png)
+## 🛠️ Tech Stack
 
-## ⚡ Demo on Render
+Website built with:
+
+- [Vue.js](https://vuejs.org/)
+- [Nuxt](https://nuxt.com/)
+- [Vuetify](https://vuetifyjs.com/en/)
+-  deploy on: [Render](https://render.com/)
+
+## ⚡ Project website
 
 Demo: <https://ecommerce-vue-nuxt.onrender.com/>
 
@@ -19,16 +26,38 @@ Demo: <https://ecommerce-vue-nuxt.onrender.com/>
 - [x] manage state in store
 - [x] create a shopping cart
 - [x] confirm page
-- [x] deploy site on [Render.com](https://render.com/)
-
----
+- [x] dark mode compatible ☀️ 🌑
 
 ## 💻 Scripts
 
-```bash
-# install dependencies
-$ npm install
+Install dependencies.
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+```bash
+npm i
 ```
+
+Runs the app in the development mode.
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## 🖼️ Screenshots
+
+Few screenshots.
+
+![ecommerce-1](/screenshot-1.png)
+
+---
+
+![ecommerce-2](/screenshot-2.png)
+
+---
+
+![ecommerce-3](/screenshot-3.png)
+
+---
+
+![ecommerce-4](/screenshot-4.png)
