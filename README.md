@@ -46,18 +46,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 🖼️ Screenshots
 
-Few screenshots.
+Project screenshots.
 
 ![ecommerce-1](/screenshot-1.png)
 
----
-
 ![ecommerce-2](/screenshot-2.png)
 
----
-
 ![ecommerce-3](/screenshot-3.png)
-
----
 
 ![ecommerce-4](/screenshot-4.png)
