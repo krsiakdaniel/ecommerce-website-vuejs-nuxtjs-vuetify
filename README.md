@@ -11,9 +11,9 @@ Website built with:
 - [Vuetify](https://vuetifyjs.com/en/)
 -  deploy on: [Render](https://render.com/)
 
-## ⚡ Project website
+## ⚡ Project Website
 
-Demo: <https://ecommerce-vue-nuxt.onrender.com/>
+Website: <https://ecommerce-vue-nuxt.onrender.com/>
 
 ## 🛠️ Features
 
