@@ -6,7 +6,7 @@ Simple eCommerce website 🛒
 
 Using the following technologies.
 
-![javascript](tech-stack-logos/javascript.png) ![typescript](tech-stack-logos/typescript.png) ![vue](tech-stack-logos/vue.png) ![nuxt](tech-stack-logos/nuxt.png) ![vuetify](tech-stack-logos/vuetify.png)
+![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vuetify)
 
 Website built with:
 
