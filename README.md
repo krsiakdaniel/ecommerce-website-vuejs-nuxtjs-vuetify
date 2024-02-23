@@ -4,18 +4,24 @@ Simple eCommerce website 🛒
 
 ## 🛠️ Tech Stack
 
+Using the following technologies.
+
+![javascript](tech-stack-logos/javascript.png) ![typescript](tech-stack-logos/typescript.png) ![vue](tech-stack-logos/vue.png) ![nuxt](tech-stack-logos/nuxt.png) ![vuetify](tech-stack-logos/vuetify.png)
+
 Website built with:
 
-- [Vue.js](https://vuejs.org/)
-- [Nuxt](https://nuxt.com/)
-- [Vuetify](https://vuetifyjs.com/en/)
--  deploy on: [Render](https://render.com/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vue.js](https://vuejs.org/) - JavaScript Framework
+- [Nuxt](https://nuxt.com/) - Vue Framework
+- [Vuetify](https://vuetifyjs.com/en/) - Vue Component Library
+- [Render](https://render.com/) - Deployment
 
 ## ⚡ Project Website
 
 Website: <https://ecommerce-vue-nuxt.onrender.com/>
 
-## 🛠️ Features
+## 📝 Features
 
 - [x] ecommerce site layout
 - [x] carousel
@@ -48,10 +54,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Project screenshots.
 
-![ecommerce-1](/screenshot-1.png)
+![screenshot-1](/screenshots/screenshot-1.png)
 
-![ecommerce-2](/screenshot-2.png)
+![screenshot-2](/screenshots/screenshot-2.png)
 
-![ecommerce-3](/screenshot-3.png)
+![screenshot-3](/screenshots/screenshot-3.png)
 
-![ecommerce-4](/screenshot-4.png)
+![screenshot-4](/screenshots/screenshot-4.png)
