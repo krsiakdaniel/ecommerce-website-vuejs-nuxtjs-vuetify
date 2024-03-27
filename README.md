@@ -15,11 +15,11 @@ Website built with:
 - [Vue.js](https://vuejs.org/) - JavaScript Framework
 - [Nuxt](https://nuxt.com/) - Vue Framework
 - [Vuetify](https://vuetifyjs.com/en/) - Vue Component Library
-- [Render](https://render.com/) - Deployment
+- [Vercel](https://vercel.com/) - Deployment
 
 ## ⚡ Project Website
 
-Website: <https://ecommerce-vue-nuxt.onrender.com/>
+Website: <https://ecommerce-website-vuejs-nuxtjs-vuetify.vercel.app/>
 
 ## 📝 Features
 
